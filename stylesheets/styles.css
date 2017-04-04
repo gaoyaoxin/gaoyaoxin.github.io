@@ -169,7 +169,9 @@ section {
 }
 
 section.popup ul a.showfig {
-    background: url(fig.png) 
+    background: url(fig.png) 100% 50%/168px 32px no-repeat;
+     padding-right: 14px;
+     margin-right: 10px;
 }
 
 h1, h2, h3, h4, h5, h6 {
