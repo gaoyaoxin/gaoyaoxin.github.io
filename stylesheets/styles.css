@@ -168,8 +168,8 @@ section {
     position: relative;
 }
 
-section.popup ul a.showfig {
-    background: url(fig.png) 100% 50%/84px 16px no-repeat;
+section.euclidea3 ul a.showfig {
+    background: url(fig.png) 100% 50%/12px 14px no-repeat;
     padding-right: 14px;
     margin-right: 10px;
 }
