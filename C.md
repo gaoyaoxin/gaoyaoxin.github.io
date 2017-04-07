@@ -1,10 +1,10 @@
 #### College_Beijing Foreign Studies University
 
 - Third Award in the Preliminary Round of 2016 "FLTRP Cup" English Writing Contest
-[](pic/c_c_November 2016.jpg.jpg)
+[](pic/c_c_November 2016.jpg)
 
 - State Encouragement Scholarship
-[](pic/c_c_December 2016.jpg.jpg)
+[](pic/c_c_December 2016.jpg)
 
 
 
