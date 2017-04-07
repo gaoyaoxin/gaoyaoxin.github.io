@@ -1,12 +1,19 @@
 #### College_Beijing Foreign Studies University
 - Third Award in the Preliminary Round of 2016 "FLTRP Cup" English Writing Contest
+<<<<<<< HEAD
 [](pic/c_c_November 2016.jpg.jpg)
 
 - State Encouragement Scholarship
 [](pic/c_c_December 2016.jpg.jpg)
+=======
+[](pic/.jpg)
+>>>>>>> origin/master
 
+- State Encouragement Scholarship
+[](pic/.jpg)
 
 #### Senior High School_The High School Affiliated to Xi'an Jiaotong University
+<<<<<<< HEAD
 
 - First Prize for Teens' Group C in The Practice of Comprehensive Quality of Youth Education & Series of Activities of Etiquette Popularization: The Fourth Outstanding Talented Students Trials in Shaanxi Province
 [](c_s_March 2013.JPG)
@@ -25,3 +32,12 @@
 #### Junior High School_The High School Affiliated to Xi'an Jiaotong University
 - First Prize for Junior Three in 2011 National English Proficiency Contest for Secondary Students
 [](pic/C_j_December 2011.JPG)
+=======
+- SNational High School Mathematics Competition
+[](pic/.jpg)
+
+
+#### Junior High School_The High School Affiliated to Xi'an Jiaotong University
+- Shaanxi Science & Technology Museum
+[](pic/.jpg)
+>>>>>>> origin/master
