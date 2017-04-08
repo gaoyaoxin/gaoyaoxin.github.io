@@ -10,4 +10,4 @@
 #### Senior High School_The High School Affiliated to Xi'an Jiaotong University
 
 - Be Innovative 2014
-[](pic/s_s_October 2014.jpg)
+[](pic/s_s_October-2014.jpg)
