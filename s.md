@@ -1,7 +1,6 @@
 #### College_Beijing Foreign Studies University
 
 - New Oriental Education & Technology Group
-[](pic/.jpg)
 
 - Directors’ Office, SEIS, BFSU
 
