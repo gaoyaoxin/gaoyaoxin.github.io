@@ -1,5 +1,8 @@
 #### 大学_北京外国语大学
 
+- Global Lives 本地化
+[](pic/v_c_June-2017.png)
+
 - 首届“亚瑟·鲁宾斯坦国际青少年钢琴比赛”
 [](pic/v_c_October-2016.jpg)
 
