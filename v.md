@@ -1,5 +1,8 @@
 #### College_Beijing Foreign Studies University
 
+- Global Lives Project
+[](pic/v_c_June-2017.png)
+
 - First Arthur Rubinstein International Youth Piano Competition
 [](pic/v_c_October-2016.jpg)
 
