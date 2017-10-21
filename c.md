@@ -1,5 +1,8 @@
 #### College_Beijing Foreign Studies University
 
+- First Prize Award in the Preliminary Round of the 2017 “FLTRP Cup” English Writing Contest
+[](pic/c_c_October-2017.jpg)
+
 - Third Award in the Preliminary Round of 2016 "FLTRP Cup" English Writing Contest
 [](pic/c_c_November-2016.jpg)
 
