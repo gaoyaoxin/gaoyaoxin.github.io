@@ -1,3 +1,3 @@
 # gaoyaoxin.github.io
-Gao Yaoxin's Personal Website
-高垚鑫的网站
+My Self-Promotion Site
+我的自我推销站
