@@ -6,8 +6,9 @@
 - Third Award in the Preliminary Round of 2016 "FLTRP Cup" English Writing Contest
 [](pic/c_c_November-2016.jpg)
 
-- State Encouragement Scholarship
-[](pic/c_c_December-2016.jpg)  
+- Twice - State Encouragement Scholarship
+[](pic/c_c_December-2016.jpg) 
+[](pic/c_c_December-2018.jpg) 
 
 
 
@@ -17,7 +18,7 @@
 - First Prize for Teens' Group C in The Practice of Comprehensive Quality of Youth Education & Series of Activities of Etiquette Popularization: The Fourth Outstanding Talented Students Trials in Shaanxi Province
 [](pic/c_s_March-2013.jpg)
 
-- Twice Second Award in the National High School Mathematics Competition
+- Twice - Second Award in the National High School Mathematics Competition
 [](pic/c_s_October-2013.jpg)
 [](pic/c_s_September-2014.jpg)
 
